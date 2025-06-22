@@ -11,7 +11,7 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Telecommunications
 - **Services**: Brand Identity, UI Design
 - **Tools**: Canva, Adobe Express
-- ![Novia Home Fiber](BRAND%20AWARENESS%20NOVIA%20HOME%20FIBERLLC.svg)
+- <img src="https://github.com/DavidGitonga/UI-UX-Design-Portfolio-/blob/main/Untitled%20(3).png?raw=true" alt="Featured Project 4" width="300"/>
 
 ### 2. Natasha's Breakfast Grill - Restaurant Branding
 - **Industry**: Food & Beverage
