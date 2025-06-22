@@ -23,13 +23,13 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Sports & Events
 - **Services**: Event Branding, Promotional Materials
 - **Focus**: Motivational Design, Athletic Themes
-- ![Mbugua & Sons Advocates](MBUGUA%20%26%20SONS%20ADVOCATES%20Legal%20Services.png)
+- ![Murima Marathon 2025](MURIMA%20Marathon%202025.webp)
 
 ### 4. Mbugua & Sons Advocates - Corporate Identity
 - **Industry**: Legal Services
 - **Services**: Professional Branding, Corporate Design
 - **Location**: Nairobi, Kenya
-- 
+- ![Mbugua & Sons Advocates](MBUGUA%20%26%20SONS%20ADVOCATES%20Legal%20Services.png)
 
 ### 5. Waithaka Clothing Store - Fashion Branding
 - **Industry**: Fashion & Retail
