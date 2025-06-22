@@ -17,25 +17,25 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Food & Beverage
 - **Services**: Marketing Materials, Food Photography Design
 - **Location**: Kasarani, Nairobi
-- **[View Project](./projects/02-natasha-breakfast-grill/)**
+- 
 
 ### 3. Murima Marathon 2025 - Event Branding
 - **Industry**: Sports & Events
 - **Services**: Event Branding, Promotional Materials
 - **Focus**: Motivational Design, Athletic Themes
-- **[View Project](./projects/03-murima-marathon/)**
+- 
 
 ### 4. Mbugua & Sons Advocates - Corporate Identity
 - **Industry**: Legal Services
 - **Services**: Professional Branding, Corporate Design
 - **Location**: Nairobi, Kenya
-- **[View Project](./projects/04-mbugua-sons-advocates/)**
+- 
 
 ### 5. Waithaka Clothing Store - Fashion Branding
 - **Industry**: Fashion & Retail
 - **Services**: Brand Identity, Fashion Photography Design
 - **Focus**: High-Fashion Aesthetic
-- **[View Project](./projects/05-waithaka-clothing-store/)**
+- 
 
 ## 🛠️ Design Tools & Technologies
 
