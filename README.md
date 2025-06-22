@@ -23,7 +23,7 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Sports & Events
 - **Services**: Event Branding, Promotional Materials
 - **Focus**: Motivational Design, Athletic Themes
-- 
+- ![Mbugua & Sons Advocates](MBUGUA%20%26%20SONS%20ADVOCATES%20Legal%20Services.png)
 
 ### 4. Mbugua & Sons Advocates - Corporate Identity
 - **Industry**: Legal Services
