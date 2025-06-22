@@ -35,7 +35,7 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Fashion & Retail
 - **Services**: Brand Identity, Fashion Photography Design
 - **Focus**: High-Fashion Aesthetic
-- 
+- ![Waithaka Clothing Store](WAITHAKA%20CLOTHING%20STORE%20Fashion%20Focus.png)
 
 ## 🛠️ Design Tools & Technologies
 
