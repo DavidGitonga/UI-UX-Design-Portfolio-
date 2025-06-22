@@ -11,7 +11,7 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Telecommunications
 - **Services**: Brand Identity, UI Design
 - **Tools**: Canva, Adobe Express
-- ![Novia Home Fiber](BRAND%20AWARENESS%20NOVIA%20HOME%20FIBERLLC.png)
+- 
 
 ### 2. Natasha's Breakfast Grill - Restaurant Branding
 - **Industry**: Food & Beverage
