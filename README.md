@@ -62,13 +62,6 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - ✅ Color Theory Application
 - ✅ Layout & Composition
 
-## 📱 Contact Information
-
-- **Portfolio Website**: [Your Website]
-- **LinkedIn**: [Your LinkedIn]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone]
-
 ## 📄 License
 
 This portfolio is for demonstration purposes. All designs are original work created for portfolio showcase.
