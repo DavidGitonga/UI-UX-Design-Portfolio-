@@ -17,7 +17,7 @@ I'm a passionate UI/UX designer with expertise in creating compelling visual exp
 - **Industry**: Food & Beverage
 - **Services**: Marketing Materials, Food Photography Design
 - **Location**: Kasarani, Nairobi
-- ![Natasha's Breakfast Grill](MARKETING%20CAMPAIGN.png)
+- <img src="https://github.com/DavidGitonga/UI-UX-Design-Portfolio-/blob/main/Untitled%20(19).png?raw=true" alt="Featured Project 1" width="300"/>
 
 ### 3. Murima Marathon 2025 - Event Branding
 - **Industry**: Sports & Events
